@@ -4,5 +4,5 @@ A collection of mini projects focusing on HTML, CSS, and JavaScript, created to 
 
 ## Projects Included
 
-1. ***Photo Gallery***: A Pinterest-style image gallery with responsive design.
+1. **Photo Gallery**: A Pinterest-style image gallery with responsive design.
 2.
