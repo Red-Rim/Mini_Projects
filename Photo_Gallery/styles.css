@@ -18,9 +18,9 @@ main {
     padding: 20px;
 }
     h1 {
-        font-size: 6rem;
+        font-size: 3rem;
     }
-    
+
     h3 {
         font-size: 2rem;
     }
@@ -46,7 +46,7 @@ main {
 }
 
 .gallery-item:hover {
-    transform: scale(1.5);
+    transform: scale(1.3);
 }
 
 footer {
