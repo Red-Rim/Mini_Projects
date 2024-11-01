@@ -1,16 +1,16 @@
-.site-header {
+.header {
     background-color: #9599e5;
     color: #000000;
     padding: 50px;
     text-align: center;
 }
 
-.site-header h1 {
+.header h1 {
     margin: 0;
     font-size: 50px;
 }
 
-.site-header p {
+.header p {
     margin:0;
     font-size: 30px;
     color: #000000;
