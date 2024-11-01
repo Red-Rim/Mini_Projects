@@ -1,0 +1,26 @@
+.grid1{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px; 
+    padding: 20px; 
+    background-color: #5c5858;
+  }
+  
+  .grid2{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px; 
+    padding: 20px; 
+    background-color: #5c5858;
+  }
+  
+  .num {
+    background-color: #849ee1;
+    color: #333;
+    font-size: 100px;
+    font-weight: lighter;
+    text-align: center;
+    border-radius: 50px;
+  }
+  
+  
