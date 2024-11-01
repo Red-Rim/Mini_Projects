@@ -6,6 +6,7 @@
     background-color: #5c5858;
   }
   
+  
   .grid2{
     display: grid;
     grid-template-columns: 1fr;
